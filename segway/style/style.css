@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serifs;
+  font-size: 10px;
+}
+
+h1,
+h2 {
+  color: #cc6600;
+  border-bottom: thin dotted #888888;
+}
+
+h1 {
+  font-size: 220%;
+}
+
+h2 {
+  font-size: 130%;
+  font-weight: normal;
+}
+
+p {
+  font-family: "Playwrite DK Uloopet";
+  font-size: 11px;
+}
+
+blockquote {
+  font-style: italic;
+}
