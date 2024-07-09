@@ -1,0 +1,31 @@
+body {
+	font: small sans-serif;
+}
+
+img {
+	border: none;
+}
+
+#logo {
+	width: 538px;
+	height: 217px;
+}
+
+#content {
+	margin: auto;
+	width: 75%;
+}
+
+#footer {
+	text-align: center;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+a.wiki, a.wiki:link, a.wiki:visited, a.wiki:hover, a.wiki:active {
+	text-decoration: underline;
+	color: #737373;
+}
