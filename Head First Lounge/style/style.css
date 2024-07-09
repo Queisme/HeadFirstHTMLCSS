@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+h1, 
+h2 {
+  color: gray;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+}
+
+p {
+  color: maroon;
+}
+
+em {
+  font-family: serif;
+}
+
+.greentea {
+  color: rgb(63, 146, 63);
+}
+
+.rasp {
+  color:rgb(0, 255, 234)
+}
+
+.blues {
+  color: rgb(173, 126, 218);
+}
+
+.crans {
+  color: rgb(158, 0, 0);
+}
